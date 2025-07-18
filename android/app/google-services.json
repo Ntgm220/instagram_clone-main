@@ -1,45 +1,36 @@
 {
   "project_info": {
-    "project_number": "414961332009",
-    "project_id": "desarrollo-movil-ig-clone",
-    "storage_bucket": "desarrollo-movil-ig-clone.firebasestorage.app"
+    "project_number": "285885953934",
+    "project_id": "instagrambasisproject-16aeb",
+    "storage_bucket": "instagrambasisproject-16aeb.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:414961332009:android:57e413e93aa0df7433d138",
+        "mobilesdk_app_id": "1:285885953934:android:1f56d97845750a023096df",
         "android_client_info": {
-          "package_name": "com.alejandro.instagram"
+          "package_name": "com.ranDynamics.InstagramClone"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "285885953934-63akc0bvvnn68pidfpntdu0mg3f65q6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyDN_bCuI-LyTXMTyPse6xiCWog3lxxlZMM"
+          "current_key": "AIzaSyDISOLXlBOGigz7MnKRo7MFstEbdfhg9fc"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:414961332009:android:aaeca9e4abbb8f5c33d138",
-        "android_client_info": {
-          "package_name": "com.winston.instagram"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDN_bCuI-LyTXMTyPse6xiCWog3lxxlZMM"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285885953934-63akc0bvvnn68pidfpntdu0mg3f65q6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
