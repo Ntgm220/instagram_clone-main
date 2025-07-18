@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "414961332009",
+    "project_id": "desarrollo-movil-ig-clone",
+    "storage_bucket": "desarrollo-movil-ig-clone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414961332009:android:57e413e93aa0df7433d138",
+        "android_client_info": {
+          "package_name": "com.alejandro.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_bCuI-LyTXMTyPse6xiCWog3lxxlZMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414961332009:android:aaeca9e4abbb8f5c33d138",
+        "android_client_info": {
+          "package_name": "com.winston.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_bCuI-LyTXMTyPse6xiCWog3lxxlZMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
